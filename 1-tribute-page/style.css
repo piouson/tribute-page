@@ -1,0 +1,38 @@
+.box {
+  padding: 1vw;
+  margin: 1vw 0;
+}
+.centered {
+  text-align: center;
+}
+.bold {
+  font-weight: bold;
+}
+#body-container {
+  min-heigth: 300px;
+  padding: 1vw;
+  box-sizing: border-box;
+  background: LightGray;
+  display: flex;
+  flex-direction: column;
+}
+#figure-container {
+  background: #f7f7f7;
+  border-radius: 1em;
+  line-height: 2;
+}
+.responsive-image {
+  max-width: 98%;
+  height: auto;
+}
+article {
+  max-width: 8in;
+  margin: auto;
+  padding: 2%;
+  text-align: left;
+  line-height: 1.5;
+}
+li {
+  margin: 1em 0;
+  width: 98%;
+}
