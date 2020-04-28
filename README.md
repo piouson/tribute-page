@@ -2,4 +2,4 @@
 
 The first Leader of the Yorubas.
 
-[Click here for Live HTML page](https://piouson.github.io/tribute-page/)
+Visit [piouson.github.io](https://piouson.github.io/tribute-page/) for Live HTML page.
